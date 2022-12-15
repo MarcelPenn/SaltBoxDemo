@@ -563,7 +563,10 @@ form textarea{
 		font-size: 1.3rem; 
 	}
 	.home p {
-		font-size: 0.7rem;
+		font-size: 0.9rem;
+	}
+	.home-text {
+		width: 110%;
 	}
 	.btn{
 		transform: scale(0.7);
